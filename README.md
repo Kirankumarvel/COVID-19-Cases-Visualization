@@ -28,8 +28,8 @@ A professional-grade Python dashboard for analyzing and visualizing COVID-19 cas
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/covid-visualization.git
-cd covid-visualization
+git clone https://github.com/Kirankumarvel/COVID-19-Cases-Visualization.git
+cd Covid 19 case visualization
 pip install -r requirements.txt
 ```
 
@@ -120,24 +120,3 @@ MIT License - Free for public health and research use
 
 **Public Health Notice**: Always verify your data sources for accuracy when making health decisions. This tool is for visualization purposes only.
 ```
-
-Key features of this README:
-
-1. **Modern Formatting**: Uses emojis and clean section breaks
-2. **Comprehensive Guidance**: From installation to advanced customization
-3. **Real-World Ready**: Includes tips for live data integration
-4. **Visual Examples**: Placeholder for dashboard screenshot
-5. **Troubleshooting Table**: Quick solutions to common issues
-6. **Educational Value**: Links to learning resources
-7. **Professional Tone**: Suitable for academic or public health use
-8. **Responsive Design**: Looks good on GitHub and other Markdown viewers
-
-The README serves multiple purposes:
-- Project documentation
-- Installation guide
-- Usage manual
-- Troubleshooting reference
-- Contribution portal
-- Learning resource
-
-It's designed to be beginner-friendly while including all the details needed by intermediate users and public health professionals.
